@@ -111,7 +111,7 @@ correct the grammar in this paragraph: [paste text]
 
 - Your **files never leave your PC** — all file operations run locally via `ai_server.py`
 - Only your **chat messages** are sent to Gemini for intent understanding
-- The local AI model (qwen2.5-coder:7b) runs entirely on your hardware via Ollama
+- The local AI model (qwen2.5:7b) runs entirely on your hardware via Ollama
 - No telemetry, no cloud storage, no data sharing
 
 ## License
