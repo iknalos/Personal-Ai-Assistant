@@ -1,0 +1,10 @@
+flask
+flask-cors
+requests
+google-generativeai
+python-dotenv
+pandas
+openpyxl
+matplotlib
+python-docx
+mcp==1.1.0
