@@ -1,6 +1,6 @@
 # Personal AI Assistant
 
-A fully private, local AI assistant for Windows that lets you manage files, analyze Excel data, generate charts, and write documents — all through natural language. No data ever leaves your PC.
+A fully private, local AI assistant for Windows that lets you manage files, analyze Excel data, generate charts, and write documents, all through natural language. No data ever leaves your PC.
 
 ## What it does
 
